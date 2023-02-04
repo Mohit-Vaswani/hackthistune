@@ -11,6 +11,7 @@ module.exports = {
       primary: "#FFFFFF",
       secondary: "#9E9E9E",
       active: "#E3ACF9",
+      // active: "#E3ACF9",
       light: "#121212",
     },
   },
