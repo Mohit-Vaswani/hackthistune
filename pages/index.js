@@ -22,7 +22,7 @@ export default function Home() {
   return (
     <div className="flex flex-col relative bg-background font-raleway items-center min-h-screen ">
       <Head>
-        <title>RapidAPI Devrel Example - Music App</title>
+        <title>Hack This Tune</title>
         <link rel="icon" href="/favicon.ico" />
         <link
           href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;700;800&display=swap"
