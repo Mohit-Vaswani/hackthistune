@@ -11,6 +11,8 @@ module.exports = {
       primary: "#FFFFFF",
       secondary: "#9E9E9E",
       active: "#E3ACF9",
+      cardbg: "#CADEFC",
+      search: "#674188",
       // active: "#E3ACF9",
       light: "#121212",
     },
